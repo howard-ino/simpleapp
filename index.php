@@ -5,11 +5,10 @@
 	</head>
 
 <body> 
-	<h1>PHP Test</h1>
-		<p><b>An Example of PHP in Action</b></p>
+	<h1>PHP Test - bought to you by Howard Ino</h1>
+		<p><b>An Example of PHP in Action - another exciting devleopment by Howard Ino</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
-	<h2>PHP Information</h2> 
 		<p> <?php phpinfo(); ?> </p> 
 	</body> 
 </html>
